@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "close#monitor"
+    },
+    {
+      "id": 1,
+      "name": "close#person"
+    },
+    {
+      "id": 2,
+      "name": "monitor"
+    },
+    {
+      "id": 3,
+      "name": "person"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
